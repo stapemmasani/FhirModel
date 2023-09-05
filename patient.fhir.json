@@ -1,0 +1,65 @@
+{
+    "resourceType": "Patient",
+    "name": [
+        {
+            "family": "Pemmasani",
+            "use": "official",
+            "text": "Srinivasarao Pemmasani",
+            "given": [
+                "Srinivasa",
+                "Rao"
+            ],
+            "prefix": [
+                "Mr",
+                "Dr"
+            ],
+            "suffix": [
+                "MCA",
+                "BTech"
+            ],
+            "period": {
+                "start": "2011-05-23",
+                "end": "2024-10-10"
+            }
+        }
+    ],
+    "gender": "male",
+    "telecom": [
+        {
+            "system": "phone",
+            "value": "7799488588",
+            "use": "mobile",
+            "rank": 1,
+            "period": {
+                "start": "2011-05-23",
+                "end": "2024-10-10"
+            }
+        },
+        {
+            "system": "email",
+            "value": "sendtopemmasani@gmail.com",
+            "use": "temp",
+            "rank": 0,
+            "period": {
+                "start": "2011-05-23",
+                "end": "2024-10-10"
+            }
+        }
+    ],
+    "birthDate": "2024-10-10",
+    "address": [{
+        "use": "home",
+        "type": "both",
+        "text": "Land mark is opposite to Mangala",
+        "line": ["My Home Mangala","Block 9"," Flat 504"],
+        "city": "Hyderabad",
+        "district": "Ranga Reddy",
+        "state": "Telangana",
+        "postalCode": "500032",
+        "country": "India",
+        "period": {
+            "start": "2011-05-23",
+            "end": "2024-10-10"
+        }
+    }]
+}
